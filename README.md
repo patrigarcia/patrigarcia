@@ -1,6 +1,5 @@
 # Patricia Gonzalez García
 
-Fullstack developer, UX/UI and graphic designer.
 
 ![foto](Assets/patri.png)
 
