@@ -1,16 +1,23 @@
-### Hi there 👋
+# Patricia Gonzalez García
 
-<!--
-**patrigarcia/patrigarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer, UX/UI and graphic designer.
 
-Here are some ideas to get you started:
+![Banner](Assets/PATRICIA GONZALEZ GARCIA.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Proficiencies
+
+-   **Technologies**: JavaScript (React, Node.js, Express), HTML, CSS, SASS, MySQL, MongoDB, Python.
+-   **Design Tools**: Sketch, Photoshop, Illustrator, Figma.
+-   **Others**: Git & GitHub, Bootstrap, Responsive Design, Chakra UI, LucidChart, BitBucket.
+
+## 🌐 Connect
+
+-   [LinkedIn](https://www.linkedin.com/in/patggarcia/)
+
+## 📈 GitHub Overview
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrigarcia&show_icons=true&theme=radical)
+
+---
+
+Thank you for stopping by. Explore my repositories for more on what I do.
