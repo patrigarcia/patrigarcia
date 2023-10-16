@@ -2,7 +2,7 @@
 
 Fullstack developer, UX/UI and graphic designer.
 
-![Banner](Assets/PATRICIA GONZALEZ GARCIA.png)
+![foto](Assets/patri.png)
 
 ## 🛠️ Technical Proficiencies
 
