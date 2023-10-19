@@ -1,7 +1,7 @@
 # Patricia Gonzalez García
 
 
-![foto](Assets/patri.png)
+![foto](Assets/pat.png)
 
 ## 🛠️ Technical Proficiencies
 
