@@ -12,6 +12,7 @@
 ## 🌐 Connect
 
 -   [LinkedIn](https://www.linkedin.com/in/patggarcia/)
+-   [Portfolio](https://www.patgonzalez.me)
 
 ## 📈 GitHub Overview
 
