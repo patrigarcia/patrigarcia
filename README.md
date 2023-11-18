@@ -1,4 +1,4 @@
-# Patricia Gonzalez García
+
 
 
 ![foto](Assets/pat.png)
