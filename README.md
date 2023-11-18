@@ -5,8 +5,8 @@
 
 ## 🛠️ Technical Proficiencies
 
--   **Technologies**: JavaScript (React, Node.js, Express), HTML, CSS, SASS, MySQL, MongoDB, Python.
--   **Design Tools**: Sketch, Photoshop, Illustrator, Figma.
+-   **Technologies**: JavaScript, Typescript (React, Node.js, Express), HTML, CSS, SASS, MySQL, MongoDB, Python.
+-   **Design Tools**: Photoshop, Illustrator, Figma, UIzard.
 -   **Others**: Git & GitHub, Bootstrap, Responsive Design, Chakra UI, LucidChart, BitBucket.
 
 ## 🌐 Connect
