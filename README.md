@@ -1,13 +1,13 @@
 
 
 
-![foto](Assets/pat.png)
+![foto](Assets/banner.png)
 
 ## 🛠️ Technical Proficiencies
 
--   **Technologies**: JavaScript, Typescript (React, Node.js, Express), HTML, CSS, SASS, MySQL, MongoDB, Python.
+-   **Technologies**: Javascript, Typescript, React, NodeJs, Express, HTML5, CSS3, SASS, MySQL, MongoDB.
 -   **Design Tools**: Photoshop, Illustrator, Figma, UIzard.
--   **Others**: Git & GitHub, Bootstrap, Responsive Design, Chakra UI, LucidChart, BitBucket.
+-   **Others**: Git & GitHub, Responsive Design, Chakra UI, MUI, BitBucket.
 
 ## 🌐 Connect
 
