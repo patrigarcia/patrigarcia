@@ -5,7 +5,7 @@
 
 ## 🛠️ Technical Proficiencies
 
--   **Technologies**: Javascript, Typescript, React, NodeJs, Express, HTML5, CSS3, SASS, MySQL, MongoDB.
+-   **Technologies**: Javascript, Typescript, React, NodeJs, NextJs, TailwindJs, Express, HTML5, CSS3, SASS, MySQL, MongoDB.
 -   **Design Tools**: Photoshop, Illustrator, Figma, UIzard.
 -   **Others**: Git & GitHub, Responsive Design, Chakra UI, MUI, BitBucket.
 
