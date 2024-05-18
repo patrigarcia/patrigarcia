@@ -22,10 +22,6 @@
 ![Commits per Year](https://github-readme-streak-stats.herokuapp.com/?user=patrigarcia&theme=radical)
 
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=patrigarcia&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 Thank you for stopping by. Explore my repositories for more on what I do.
