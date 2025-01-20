@@ -2,9 +2,9 @@
 
 ## 🛠️ Technical Proficiencies
 
-- **Technologies**: Javascript, Typescript, Python, Streamlit, React, NodeJs, NextJs, TailwindJs, Express, HTML5, CSS3, SASS, MySQL, MongoDB.
+- **Technologies**: Javascript, Typescript, Python, Streamlit, React, NodeJs, NextJs, Express, HTML5, CSS3, SASS, MySQL, MongoDB.
 - **Design Tools**: Photoshop, Illustrator, Figma, UIzard, Sketch.
-- **Others**: Git & GitHub, Responsive Design, Chakra UI, MUI, Ant-Design, BitBucket.
+- **Others**: Git & GitHub, Chakra UI, MUI, Ant-Design, TailwindCSS, BitBucket.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrigarcia&layout=compact&theme=radical)
 
