@@ -4,15 +4,15 @@
 
 ## 🖖🏼 Hey there!
 
-I'm the CPO and co-founder of Igrowker. I specialize in turning ideas into innovative, functional, and scalable digital products, combining technology, strategy, and product engineering. I'm also a Product Engineer and Software Developer, with a strong focus on frontend development.
+I'm CPO and co-founder at Igrowker. I specialize in turning ideas into innovative, functional, and scalable digital products, combining technology, strategy, and product engineering. I'm also a Software Developer, specialized in frontend development.
 
 **Let's build something amazing!** 🚀
 
 ## 🛠️ Technical Proficiencies
 
-- **Technologies**: Javascript, Typescript, Python, Streamlit, React, NodeJs, NextJs, Express, HTML5, CSS3, SASS, MySQL, MongoDB.
-- **Design Tools**: Photoshop, Illustrator, Figma, UIzard, Sketch.
-- **Others**: Git & GitHub, Chakra UI, MUI, Ant-Design, TailwindCSS, BitBucket.
+- **Technologies**: Javascript, Typescript, Python, React, NodeJs, NextJs, Express, DDBB Management, API Design.
+- **Design Tools**: Photoshop, Illustrator, Figma, UIzard, Chakra UI, MUI, TailwindCSS.
+- **Others**: Git & GitHub, BitBucket, Agile Methodologies, MVP Development, Product Strategy, Product Roadmap.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrigarcia&layout=compact&theme=radical)
 
