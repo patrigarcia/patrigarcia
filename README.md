@@ -2,6 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&color=667AFB&lines=Hey+there!+I'm+Patricia;Product+Engineer+and;+Software+Dev+at+Igrowker)
 
+## 🖖🏼 Hey there!
+
+I'm the CPO and co-founder of Igrowker. I specialize in turning ideas into innovative, functional, and scalable digital products, combining technology, strategy, and product engineering. I'm also a Product Engineer and Software Developer, with a strong focus on frontend development.
+
+**Let's build something amazing!** 🚀
+
 ## 🛠️ Technical Proficiencies
 
 - **Technologies**: Javascript, Typescript, Python, Streamlit, React, NodeJs, NextJs, Express, HTML5, CSS3, SASS, MySQL, MongoDB.
@@ -21,7 +27,6 @@
 ## 📈 GitHub Overview
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrigarcia&show_icons=true&theme=radical)
-![Commits per Year](https://github-readme-streak-stats.herokuapp.com/?user=patrigarcia&theme=radical)
 
 ---
 
