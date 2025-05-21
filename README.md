@@ -1,4 +1,4 @@
-![Header](Assets/banner.png)
+![Header](Assets/banner2.png)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&color=667AFB&lines=Hey+there!+I'm+Patricia;Product+Engineer+and;+Software+Dev+at+Igrowker)
 
