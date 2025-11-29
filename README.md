@@ -4,7 +4,7 @@
 
 ## 🖖🏼 Hey there!
 
-I'm CPO and co-founder at Igrowker. I specialize in turning ideas into innovative, functional, and scalable digital products, combining technology, strategy, and product engineering. I'm also a Software Developer, specialized in frontend development.
+I'm Technical Product Director and co-founder at Igrowker. I specialize in turning ideas into innovative, functional, and scalable digital products, combining technology, strategy, and product engineering. I'm also a Software Developer, specialized in frontend development.
 
 **Let's build something amazing!** 🚀
 
